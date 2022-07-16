@@ -75,6 +75,9 @@ boto3: AWS SDK for Python (Boto3) to create, configure, and manage AWS services
 # Results
 The Gradient Boosting Tree Model developed scored an accuracy of 96% on test dataset.
 
+You can find the review on the project at the link below:https://review.udacity.com/#!/reviews/3558758
+
+
 # Acknowledgements
 I would like to thank the Udacity Support Team, my session advisor, Muru Raj and Xinyi for their unrelenting support in helping me complete my first proper machine learning project with time extension during the difficult time I underwent a health crisis.
 
