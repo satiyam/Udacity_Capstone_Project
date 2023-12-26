@@ -77,6 +77,9 @@ The Gradient Boosting Tree Model developed scored an accuracy of 96% on test dat
 
 You can find the review on the project at the link below:https://review.udacity.com/#!/reviews/3558758
 
+![image](https://github.com/satiyam/Udacity_Capstone_Project/assets/34841055/bd4135cf-bb76-4ba2-bfa9-97843c6913ee)
+
+
 
 # Acknowledgements
 I would like to thank the Udacity Support Team, my session advisor, Muru Raj and Xinyi for their unrelenting support in helping me complete my first proper machine learning project with time extension during the difficult time I underwent a health crisis.
